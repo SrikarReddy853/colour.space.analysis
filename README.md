@@ -1,4 +1,3 @@
-#lab-1
 # color_space_analysis.py
 import cv2
 import numpy as np
